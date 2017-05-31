@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BarcodeScanner</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    
+    
+    <string name="title_l1">Record</string>
+    <string name="title_l2">Analyse</string>
+    <string name="title_l3">Scan</string>
+
+    <!-- 二维码 -->
+    <string name="scan_tips">Put your barcode to the scanned box</string>
+	
+	<!--来自Zxing项目-->
+    <string name="menu_settings">Settings</string>
+    
+    <string name="scan_text">Put the barcode to the scanner</string>
+</resources>

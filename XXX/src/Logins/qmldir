@@ -1,0 +1,5 @@
+module Logins
+
+LoginUI 1.0 ./LoginUI.qml
+IpUI 1.0 ./IpUI.qml
+MoreLanguage 1.0 ./MoreLanguage.qml

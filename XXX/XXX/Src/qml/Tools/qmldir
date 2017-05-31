@@ -1,0 +1,4 @@
+module Tools
+singleton Translate 1.0 ./Translate.qml
+singleton Tool 1.0 ./Tool.qml
+Vibrate 1.0 ./Vibrate.qml

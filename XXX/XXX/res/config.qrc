@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>config/.NetConfig.txt</file>
+        <file>config/.MainView.txt</file>
+    </qresource>
+</RCC>

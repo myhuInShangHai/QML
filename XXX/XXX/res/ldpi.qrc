@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ldpi/icBack.png</file>
+        <file>ldpi/icChosen.png</file>
+        <file>ldpi/icHidePasswd.png</file>
+        <file>ldpi/icLog.png</file>
+        <file>ldpi/icMore.png</file>
+        <file>ldpi/icMoreURL.png</file>
+        <file>ldpi/icRememberChecked.png</file>
+        <file>ldpi/icRememberDefault.png</file>
+        <file>ldpi/icShowPasswd.png</file>
+        <file>ldpi/icWaiting.png</file>
+        <file>ldpi/icChina.png</file>
+        <file>ldpi/icCombobox.png</file>
+        <file>ldpi/icReceive.png</file>
+        <file>ldpi/icTrans.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,12 @@
+#ifndef TCPSOCKET_GLOBAL_H
+#define TCPSOCKET_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(TCPSOCKET_LIBRARY)
+#  define TCPSOCKETSHARED_EXPORT Q_DECL_EXPORT
+#else
+#  define TCPSOCKETSHARED_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // TCPSOCKET_GLOBAL_H

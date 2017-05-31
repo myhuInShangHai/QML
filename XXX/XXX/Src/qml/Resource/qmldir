@@ -1,0 +1,5 @@
+module Resource
+singleton RIcon 1.0 ./RIcon.qml
+singleton R 1.0 ./R.qml
+singleton RUrl 1.0 ./RUrl.qml
+singleton RFileName 1.0 ./RFileName.qml

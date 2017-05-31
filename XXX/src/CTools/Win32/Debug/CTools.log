@@ -1,0 +1,28 @@
+﻿生成启动时间为 2017/2/24 星期五 13:24:06。
+     1>项目“E:\svn\C2M\FlexEngine\Code\APP\APPModel\src\CTools\CTools.vcxproj”在节点 2 上(Build 个目标)。
+     1>CustomBuild:
+         Moc'ing CJsonReadWrite.h...
+         Moc'ing CProptyFromQML.h...
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I. /IC:\qt\qt5.5.1msvc\5.5\msvc2013\include /IC:\qt\qt5.5.1msvc\5.5\msvc2013\include\QtQml /IC:\qt\qt5.5.1msvc\5.5\msvc2013\include\QtNetwork /IC:\qt\qt5.5.1msvc\5.5\msvc2013\include\QtCore /Idebug /I"C:\qt\qt5.5.1msvc\5.5\msvc2013\mkspecs\win32-msvc2013" /Zi /nologo /W3 /WX- /Od /Oy- /D _WINDOWS /D UNICODE /D WIN32 /D CTOOLS_LIBRARY /D QT_QML_LIB /D QT_NETWORK_LIB /D QT_CORE_LIB /D _WINDLL /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"Win32\Debug\\" /Fd"Win32\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt -w34100 -w34189 -w44996 CProptyFromQML.cpp Debug\moc_CJsonReadWrite.cpp Debug\moc_CProptyFromQML.cpp
+         CProptyFromQML.cpp
+     1>e:\svn\c2m\flexengine\code\app\appmodel\src\ctools\CProptyFromQML.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         moc_CJsonReadWrite.cpp
+     1>e:\svn\c2m\flexengine\code\app\appmodel\src\ctools\debug\../CJsonReadWrite.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\svn\c2m\flexengine\code\app\appmodel\src\ctools\CFileManage.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         moc_CProptyFromQML.cpp
+     1>e:\svn\c2m\flexengine\code\app\appmodel\src\ctools\debug\../CProptyFromQML.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         正在生成代码...
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\..\lib\CTools\\CToolsd.dll" /NOLOGO /LIBPATH:C:\Qt\Qt5.5.1MSVC\5.5\msvc2013\lib /LIBPATH:C:\qt\qt5.5.1msvc\5.5\msvc2013\lib C:\Qt\Qt5.5.1MSVC\5.5\msvc2013\lib\Qt5Qmld.lib C:\Qt\Qt5.5.1MSVC\5.5\msvc2013\lib\Qt5Networkd.lib C:\Qt\Qt5.5.1MSVC\5.5\msvc2013\lib\Qt5Cored.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"..\..\lib\CTools\CToolsd.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /MACHINE:X86 /SAFESEH /DLL Win32\Debug\CFileManage.obj
+         Win32\Debug\CJsonReadWrite.obj
+         Win32\Debug\CProptyFromQML.obj
+         Win32\Debug\moc_CJsonReadWrite.obj
+         Win32\Debug\moc_CProptyFromQML.obj
+            正在创建库 ..\..\lib\CTools\\CToolsd.lib 和对象 ..\..\lib\CTools\\CToolsd.exp
+         CTools.vcxproj -> E:\svn\C2M\FlexEngine\Code\APP\APPModel\src\CTools\..\..\lib\CTools\CToolsd.dll
+     1>已完成生成项目“E:\svn\C2M\FlexEngine\Code\APP\APPModel\src\CTools\CTools.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.56

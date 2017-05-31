@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>FirstPage.qml</file>
+        <file>1.png</file>
+        <file>2.jpg</file>
+        <file>PushPage.qml</file>
+        <file>icBack.png</file>
+        <file>Radius.qml</file>
+    </qresource>
+</RCC>

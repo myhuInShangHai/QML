@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Src/qml/FirstPage.qml</file>
+        <file>Src/qml/main.qml</file>
+        <file>Src/qml/Tools/qmldir</file>
+        <file>Src/qml/Tools/Translate.qml</file>
+        <file>Src/qml/Resource/qmldir</file>
+        <file>Src/qml/Resource/R.qml</file>
+        <file>Src/qml/Resource/RFileName.qml</file>
+        <file>Src/qml/Resource/RIcon.qml</file>
+        <file>Src/qml/Resource/RUrl.qml</file>
+        <file>Src/qml/Tools/Tool.qml</file>
+        <file>Src/qml/Login/Login.qml</file>
+        <file>Src/qml/Login/IpConfigUI.qml</file>
+        <file>Src/qml/+android/FirstPage.qml</file>
+        <file>Src/qml/Test.qml</file>
+        <file>Src/qml/MainView/ButtomBlock.qml</file>
+        <file>Src/qml/MainView/MainView.qml</file>
+        <file>Src/qml/Tools/Vibrate.qml</file>
+        <file>Src/qml/Tools/+android/Vibrate.qml</file>
+        <file>Src/qml/Parts/Clock.qml</file>
+        <file>Src/qml/Parts/MsgDialog.qml</file>
+        <file>Src/qml/Parts/RadioPart.qml</file>
+        <file>Src/qml/TableviewTest.qml</file>
+        <file>Src/qml/Model/Model.qml</file>
+        <file>Src/qml/Model/qmldir</file>
+        <file>Src/qml/Parts/Charts/ChartViewPart.qml</file>
+        <file>Src/qml/Parts/Charts/LegendPart.qml</file>
+        <file>Src/qml/Parts/Charts/ChartControl.js</file>
+        <file>Src/qml/Parts/DragItem.qml</file>
+        <file>Src/qml/Parts/Drawer/ScalSetSideBar.qml</file>
+        <file>Src/qml/ScanSideBarTest.qml</file>
+        <file>Src/qml/Model/NetJsonModel.qml</file>
+        <file>Src/qml/Parts/TimeSelectModelUI.qml</file>
+        <file>Src/qml/Parts/Drawer/ScanSideBarCtrl.js</file>
+        <file>Src/qml/Parts/DateSelect/DateLabel.qml</file>
+        <file>Src/qml/Parts/DateSelect/DateSelect.qml</file>
+        <file>Src/qml/Parts/TableView/TableViewCtrl.js</file>
+        <file>Src/qml/Parts/TableView/TableViewPart.qml</file>
+        <file>Src/qml/Parts/TableView/TbleViewClm.qml</file>
+        <file>Src/qml/ListViewTest.qml</file>
+        <file>Src/qml/Parts/ListView/MyListView.qml</file>
+        <file>Src/qml/Parts/ListView/MyListViewCtrl.js</file>
+        <file>Src/qml/Parts/TableView/ClickRowTableViewCom.qml</file>
+        <file>Src/qml/Parts/TableView/ClickRowTableViewCtrl.js</file>
+    </qresource>
+</RCC>

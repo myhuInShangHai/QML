@@ -1,0 +1,5 @@
+module PixelSizeToPointSize
+plugin PixelSizeToPointSize
+typeinfo plugin.qmltypes
+
+

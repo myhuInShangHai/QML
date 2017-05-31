@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color> <!-- 白色 -->
+    <color name="gray">#9C9C9C</color><!-- 灰色 -->
+    <color name="dark_grey">#414549</color><!-- 深灰色 -->
+    <color name="green">#6B8E23</color><!-- 绿色 -->
+    <color name="black">#212123</color><!-- 黑色 -->
+	
+	
+	<!-- 来自Zxing项目-->
+	<color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color> 
+    
+    
+</resources>

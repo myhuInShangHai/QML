@@ -1,0 +1,12 @@
+#ifndef CJSONTOOLS_GLOBAL_H
+#define CJSONTOOLS_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(CJSONTOOLS_LIBRARY)
+#  define CJSONTOOLSSHARED_EXPORT Q_DECL_EXPORT
+#else
+#  define CJSONTOOLSSHARED_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // CJSONTOOLS_GLOBAL_H

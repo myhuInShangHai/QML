@@ -1,0 +1,4 @@
+module CVibrator
+plugin CVibrator
+typeinfo plugin.qmltypes
+

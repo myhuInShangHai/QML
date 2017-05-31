@@ -1,0 +1,2 @@
+qmlplugindump -nonrelocatable XXX 1.0 PATH > PATH/MyPG/plugin.qmltypes
+typeinfo plugin.qmltypes

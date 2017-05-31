@@ -1,0 +1,13 @@
+module Sparrow
+singleton FontSetting 1.0 ./FontSetting.qml
+IconImage 1.0 ./IconImage.qml
+Page 1.0 ./Page.qml
+QObject 1.0 ./QObject.qml
+StackViewApplication 1.0 ./StackViewApplication.qml
+TextLabel 1.0 ./TextLabel.qml
+TopBar 1.0 ./TopBar.qml
+UI 1.0 ./UI.js
+Dialogs 1.0 ./Dialogs.qml
+Toast 1.0 ./Toast.qml
+InitView 1.0 ./InitView.qml
+singleton R 1.0 ./R.qml

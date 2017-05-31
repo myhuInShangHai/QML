@@ -1,0 +1,12 @@
+{"mainView":
+    [
+        {
+            "imagePath" : "icReceive",
+            "txt": "receive"
+        },
+        {
+            "imagePath" : "icTrans",
+            "txt": "translate"
+        }
+    ]
+}
